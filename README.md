@@ -8,5 +8,5 @@ orders_BI/Screenshot 2026-03-17 151737.png
 
 Built a Power BI visualization using a pie chart to analyze the percentage of total sales across different product categories. This visual clearly shows how each category contributes to overall sales, helping identify dominant categories and areas with lower contribution for better decision-making.
 
-orders_BI/Screenshot 2026-03-17 151737.png
-![percentage of sales by various category](Screenshot 2026-03-17 151737.png)
+orders_BI/Screenshot 2026-03-17 152032.png
+![percentage of sales by various category](Screenshot 2026-03-17 152032.png)
