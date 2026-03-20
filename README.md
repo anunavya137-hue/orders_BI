@@ -5,3 +5,8 @@ Developed a Power BI visualization using a stacked column chart to analyze avera
 
 orders_BI/Screenshot 2026-03-17 151737.png
 ![average of Sales by region and category Dashboard](Screenshot 2026-03-17 151737.png)
+
+Built a Power BI visualization using a pie chart to analyze the percentage of total sales across different product categories. This visual clearly shows how each category contributes to overall sales, helping identify dominant categories and areas with lower contribution for better decision-making.
+
+orders_BI/Screenshot 2026-03-17 151737.png
+![percentage of sales by various category](Screenshot 2026-03-17 151737.png)
